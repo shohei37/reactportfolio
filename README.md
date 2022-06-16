@@ -1,3 +1,42 @@
+# 作品名：ポートフォリオサイト
+
+## 使ったもの
+
+** ・ライブラリー：router-dom
+　    └reactで複数のページが存在する場合には複数のURLが存在する→URLとコンポーネントを紐づけるためのライブラリ
+     （例：　/contactにアクセスするとContactコンポーネントを表示させる）
+ 
+ インストール：npm install react-router-dom
+ 
+ import{ BrowserRouter as Router,Route,Routes} from "react-router-dom"
+ 
+ import { Link } from 'react-router-dom'
+ 
+ 
+ 
+** ・Bootstrap
+
+<bootstrapスターターテンプレート>
+https://startbootstrap.com/
+
+ここで様々なウェブサイトのテンプレがそのまま使える→テンプレ使うだけでHPとか作れちゃう
+
+##　学んだこと
+
+## メモ
+
+コンポーネントのjsファイルはrfceで初期設定（忘れがち→これしないとimportできない）
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
