@@ -2,7 +2,7 @@
 
 ## 使ったもの
 
-** ・ライブラリー：router-dom
+・ライブラリー：router-dom
 　    └reactで複数のページが存在する場合には複数のURLが存在する→URLとコンポーネントを紐づけるためのライブラリ
      （例：　/contactにアクセスするとContactコンポーネントを表示させる）
  
@@ -14,14 +14,13 @@
  
  
  
-** ・Bootstrap
+ ・Bootstrap
 
 <bootstrapスターターテンプレート>
 https://startbootstrap.com/
 
 ここで様々なウェブサイトのテンプレがそのまま使える→テンプレ使うだけでHPとか作れちゃう
 
-##　学んだこと
 
 ## メモ
 
